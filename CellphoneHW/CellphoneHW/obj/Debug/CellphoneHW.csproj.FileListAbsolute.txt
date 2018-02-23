@@ -1,0 +1,7 @@
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\bin\Debug\CellphoneHW.exe.config
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\bin\Debug\CellphoneHW.exe
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\bin\Debug\CellphoneHW.pdb
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\obj\Debug\CellphoneHW.csprojResolveAssemblyReference.cache
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\obj\Debug\CellphoneHW.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\obj\Debug\CellphoneHW.exe
+C:\Users\julie\source\repos\CellphoneHW\CellphoneHW\obj\Debug\CellphoneHW.pdb
